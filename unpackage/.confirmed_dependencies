@@ -1,0 +1,26 @@
+{
+	"index.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"css/index.css",
+			"chat.html"
+		],
+		"refer": [
+			"chat.html"
+		]
+	},
+	"chat.html": {
+		"resources": [
+			"css/chat.css",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	}
+}
